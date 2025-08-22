@@ -3,6 +3,7 @@ This project is an Interactive Sales Dashboard created in Tableau
 designed to make sales data easier to analyze and interpret. 
 The dashboard provides valuable insights for decision-making by presenting key metrics in a simple and visually appealing way.
 
+
 ## ✨ Dashboard Highlights
 
 * 📈 **Overall Sales Trends** – Clear view of sales performance over time
